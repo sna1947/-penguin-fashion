@@ -1,0 +1,28 @@
+ul li{
+    margin-right: 30px;
+}
+.logo_header{
+    width: 55.94px;
+    height: 39.27px;
+}
+.cart{
+    width: 24px;
+height: 24px;
+}
+.header_bg{
+    background-color: #FFFBF0;
+}
+.bdr_ro{
+    border-radius: 20px;
+    width: 293px;
+height: 293px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    margin-top: 1px;
+
+    background-color: #F1F1F1;
+
+}
+/* .ana_sec{
+    background-color: rgb(235, 235, 235);
+} */
