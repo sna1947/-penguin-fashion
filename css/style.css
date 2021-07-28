@@ -1,3 +1,6 @@
+/* *{
+    border: 2px solid red;
+} */
 ul li{
     margin-right: 30px;
 }
@@ -22,6 +25,10 @@ height: 293px;
 
     background-color: #F1F1F1;
 
+}
+.img_frame{
+    width: 370px;
+    height: 550px;
 }
 /* .ana_sec{
     background-color: rgb(235, 235, 235);
